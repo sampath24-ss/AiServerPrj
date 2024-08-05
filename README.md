@@ -1,2 +1,2 @@
 # AiServerPrj
-AI Server project
+Developed an basic ai search engine using cloudflare. 👽
